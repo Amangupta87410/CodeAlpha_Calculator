@@ -6,7 +6,7 @@ Live Demo
 You can try out the live version of the calculator here:
 
 
-
+https://amangupta87410.github.io/CodeAlpha_Calculator/
 
 
 Features:
